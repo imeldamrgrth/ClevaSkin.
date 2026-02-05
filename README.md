@@ -28,11 +28,8 @@ This project demonstrates an end-to-end machine learning pipeline, covering data
 
 ## Technologies Used
 - Python
-
 - TensorFlow / Keras
-
 - OpenCV
-
 - NumPy, Pandas
 
 - Matplotlib, Seaborn
