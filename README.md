@@ -7,21 +7,13 @@ This project demonstrates an end-to-end machine learning pipeline, covering data
 
 ## Features
 - Multi-class skin disease classification (16 classes)
-
 - Transfer learning with MobileNetV2
-
 - Balanced dataset using undersampling
-
 - Train / Validation / Test split
-
 - Fine-tuned deep learning model
-
 - Grad-CAM visualization for explainability
-
 - Confusion matrix, classification report, and ROC curves
-
 - Adaptive cropping based on attention heatmap
-
 - Hybrid decision logic for low-confidence predictions
 
 ---
@@ -31,9 +23,6 @@ This project demonstrates an end-to-end machine learning pipeline, covering data
 - TensorFlow / Keras
 - OpenCV
 - NumPy, Pandas
-
 - Matplotlib, Seaborn
-
 - Scikit-learn
-
 - Google Colab
